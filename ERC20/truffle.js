@@ -10,8 +10,8 @@ module.exports = {
       network_id: '*'
     },
     deployment: {
-      provider: new PrivateKeyProvider(process.env.private_key, process.env.provider),
-      network_id: process.env.network_id
+      provider: new PrivateKeyProvider(process.env.privateKey, process.env.provider),
+      network_id: process.env.networkId
     }
   }
 };
