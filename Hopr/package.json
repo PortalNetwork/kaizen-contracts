@@ -11,7 +11,7 @@
     "node": "v12"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^2.4.0"
+    "@openzeppelin/contracts": "^4.4.2"
   },
   "devDependencies": {
     "@openzeppelin/test-helpers": "^0.5.4",
